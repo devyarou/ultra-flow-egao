@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "流れ星スマイル",
   "version": "1.0.0",
-  "description": "ボタンを押すと😊がポップアップ内を斜めに流れる拡張機能",
+  "description": "😊が流れ、あなたの精神は、傷は癒え、ついに勝利にいたる",
   "action": {
     "default_popup": "popup.html"
   },
